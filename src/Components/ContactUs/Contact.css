@@ -1,0 +1,39 @@
+.ask-que{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ask-que img{
+    width: 400px;
+    margin-right: 20px;
+}
+.que{
+    border: 2px solid rgb(93, 86, 86);
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    box-shadow: 0px 5px 10px 5px rgb(108, 146, 58);
+}
+.subscribe{
+    background-color: rgb(152, 233, 152);
+    padding: 40px;
+}
+.subscribe p{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(119, 80, 8);
+}
+.subscribe input{
+    padding:  10px 20px 10px 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+.subscribe Button{
+    padding: 5px;
+    background-color: rgb(8, 160, 84);
+    color: whitesmoke;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+}
