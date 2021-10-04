@@ -1,0 +1,17 @@
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(19, 17, 17);
+    padding: 20px;
+}
+.footer-container a{
+    color: honeydew;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.footer-container p{
+    color: honeydew;
+}
+.footer-container img:hover {
+    width: 150px;
+}
