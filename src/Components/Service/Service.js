@@ -1,6 +1,7 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
+import { Row, Spinner } from 'react-bootstrap';
 import ServiceAcademic from '../ServiceAcademic/ServiceAcademic';
 import './Service.css'
 const Service = () => {
@@ -12,13 +13,14 @@ const Service = () => {
     } ,[])
     return (
         <div className='service'>
-            <h2>Service Fact:{academics.length}</h2>
+
             {
                 academics.map(academic => <ServiceAcademic
                                           key={academic.id}
                                           academic={academic}
                                             ></ServiceAcademic>)
             }
+            
         </div>
     );
 };

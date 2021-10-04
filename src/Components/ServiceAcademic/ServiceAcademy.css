@@ -6,6 +6,10 @@
      width: 250px;
      height: 200px;
  }
+ .service-cart img:hover{
+     width: 260px;
+     height: 250px;
+ }
  .service-cart{
      
      box-shadow: 10px 10px 10px 5px rgb(207, 200, 200);
@@ -13,6 +17,4 @@
      padding: 10px;
      border-radius: 20px;
  }
- .service-cart:hover{
-     width: 450px;
- }
+ 
