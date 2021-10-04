@@ -6,9 +6,9 @@ const Footer = () => {
     return (
         <div className='footer-container'>
             <div>
-                <a href='/fethure'>Fethures</a>
-                <a href='/help'>Help</a>
-                <a href='/pricvecy'>Privecy</a>
+                <a href='/service'>Fethures</a>
+                <a href='/contact'>Help</a>
+                <a href='/about'>Privecy</a>
                 <br/>
                 <p>2021, All right reserved By Ashiqul Islam</p>
             </div>
