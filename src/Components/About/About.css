@@ -4,3 +4,10 @@
 .about-container p{
     font-size: 18px;
 }
+.about-container h3{
+    font-size: 30px;
+}
+
+.about-container{
+    background-color: rgb(238, 255, 227);
+}
