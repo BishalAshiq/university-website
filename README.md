@@ -4,7 +4,7 @@ This project was bootstrapped with [Educational Website](https://github.com/face
 
 ## Available Scripts
 
-In the project, you can see a University Website, knowing about them and The curriculam
+In the project, you can see a University Website, knowing about them and the curriculam. 
 
 ### `npm start`
 
