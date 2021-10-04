@@ -1,6 +1,6 @@
 # EUB Website
 
-This project was bootstrapped with [Educational Website](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Educational Website](https://eub-educational-site.netlify.app/service).
 
 ## Available Scripts
 
