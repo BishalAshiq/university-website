@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# EUB Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Educational Website](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project, you can see a University Website, knowing about them and The curriculam
 
 ### `npm start`
 
